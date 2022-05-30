@@ -1,7 +1,7 @@
 Sites Feitos no Wordpress:
 
-ocularlentes.com
+<a href="https://ocularlentes.com" target="_blank">ocularlentes.com</a>
 
-clinicasoroface.com.br
+<a href="https://clinicasoroface.com.br" target="_blank">clinicasoroface.com.br</a>
 
-grupoxchange.com.br
+<a href="https://grupoxchange.com.br" target="_blank">grupoxchange.com.br</a>
